@@ -8,7 +8,7 @@
 * Download fire datasets by following the instructions below and put into "Dataset" folder.
 
 ## Datasets
-* We provide 6 datasets
+* We use 6 datasets:
   * FireNet
   * FireSense
   * CairFire
