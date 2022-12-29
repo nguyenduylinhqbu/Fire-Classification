@@ -1,5 +1,5 @@
 Datasets for training and evaluation\
-Ex: FireNet\
+Ex:\ FireNet\
     - 0: NoFire\
     - 1: Fire\
     ThermalFire\
