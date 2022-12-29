@@ -1,3 +1,3 @@
 # Fire-Classification
-Fire Classification
-Instruction
+## Fire Classification
+### Instruction
