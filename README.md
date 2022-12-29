@@ -16,7 +16,7 @@
   * FireDetection
   * ThermalFire (Proposed dataset)
   
- *You can download from internet or contact to author to get these datasets and password (Email: nguyenduylinhqbu@gmail.com)*
+ *You can download them from internet or contact to author to get these datasets and password (Email: nguyenduylinhqbu@gmail.com)*
 ## Training and evaluation
 * Command line: python train.py
 
