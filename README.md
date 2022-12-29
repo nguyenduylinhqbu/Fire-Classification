@@ -5,7 +5,8 @@
 
 * Clone this repository.
 
-* Download fire datasets by following the instructions below and out into "Dataset" folder.
+* Download fire datasets by following the instructions below and put into "Dataset" folder.
+
 ## Datasets
 * We provide 6 datasets
   * FireNet
