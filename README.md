@@ -21,6 +21,8 @@
 * Command line: python train.py
 ## Authors:
 *Duy-Linh nguyen
+
 *Muhamad Dwisnanto Putro
+
 *Khang-Hyun Jo
 
