@@ -15,7 +15,7 @@
   * FireDetection
   * ThermalFire (Proposed dataset)
   
- *Please contact to author toget these datasets (Email: nguyenduylinhqbu@gmail.com)*
+ *Please contact to author to get these datasets and password (Email: nguyenduylinhqbu@gmail.com)*
 ## Training and evaluation
 
 
