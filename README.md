@@ -17,6 +17,5 @@
   
  *Please contact to author to get these datasets and password (Email: nguyenduylinhqbu@gmail.com)*
 ## Training and evaluation
+* Command line: python train.py
 
-
-### Instruction
