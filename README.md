@@ -20,9 +20,9 @@
 ## Training and evaluation
 * Command line: python train.py
 ## Authors:
-*Duy-Linh nguyen*
+*Duy-Linh nguyen (nguyenduylinhqbu@gmail.com)*
 
-*Muhamad Dwisnanto Putro*
+*Muhamad Dwisnanto Putro (dwisnanto.putro@gmail.com )*
 
-*Khang-Hyun Jo*
+*Kang-Hyun Jo (acejo@ulsan.ac.kr)*
 
