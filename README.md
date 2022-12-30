@@ -18,7 +18,7 @@
   
  *You can download them from internet or contact to author to get these datasets (Email: nguyenduylinhqbu@gmail.com)*
 ## Training and evaluation
-* Command line: ('python train.py')
+* Command line: (`python train.py`)
 ## Authors:
 *Duy-Linh nguyen (nguyenduylinhqbu@gmail.com)*
 
