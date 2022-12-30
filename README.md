@@ -24,5 +24,5 @@
 
 *[Muhamad Dwisnanto Putro](dwisnanto.putro@gmail.com )*
 
-*[Kang-Hyun Jo] (acejo@ulsan.ac.kr)*
+*[Kang-Hyun Jo](acejo@ulsan.ac.kr)*
 
